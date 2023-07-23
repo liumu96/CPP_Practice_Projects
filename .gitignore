@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*/src/build
+
+# compile setting
+.vscode
+
+# temp
+position-based-dynamics
+build
