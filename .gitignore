@@ -35,6 +35,9 @@
 # compile setting
 .vscode
 
+# xcode
+*.xcodeproj/
+
 # temp
 position-based-dynamics
 build
